@@ -1,0 +1,11 @@
+@charset "UTF-8";
+.landing-page {
+  width: 100%;
+  background-position: center;
+  /* التدرج الخطي */
+  background: linear-gradient(to right, rgba(245, 245, 245, 0.8), rgba(245, 245, 245, 0.8)), url("../assets/images/home-bg.png") no-repeat center center;
+  /* تحديد حجم الخلفية */
+  background-size: cover;
+  /* منع تكرار الخلفية */
+  background-repeat: no-repeat;
+}/*# sourceMappingURL=styles.css.map */
